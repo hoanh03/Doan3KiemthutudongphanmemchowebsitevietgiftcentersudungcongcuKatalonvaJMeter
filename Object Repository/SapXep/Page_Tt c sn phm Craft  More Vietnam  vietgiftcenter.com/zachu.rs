@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>zachu</name>
+   <tag></tag>
+   <elementGuidId>7b541c27-35bd-4953-9801-9f6343b50401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách'])[1]/following::h3[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>3c822fcd-f3f1-4bf1-a879-004d6109a9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>406b1926-a78a-4978-b12f-b06e5b4bbe38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xe Vespa mô hình trang trí, phụ kiện chụp ảnh</value>
+      <webElementGuid>82879262-de4d-4191-8a6b-217d7efda72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container main-collection&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;main_container collection col-lg-9 col-lg-push-3&quot;]/div[@class=&quot;category-products products&quot;]/section[@class=&quot;products-view products-view-grid&quot;]/div[@class=&quot;row row-gutter-14&quot;]/div[@class=&quot;col-xs-6 col-xss-6 col-sm-4 col-md-4 col-lg-4&quot;]/div[@class=&quot;product-box&quot;]/div[@class=&quot;product-info a-center&quot;]/h3[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>77854ded-cd2f-411c-a66b-589396c5b595</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách'])[1]/following::h3[1]</value>
+      <webElementGuid>7ee14ca7-515d-437a-a069-2f38ee3dec57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưới'])[1]/following::h3[1]</value>
+      <webElementGuid>255732b0-5dae-4c49-855d-05f213f9001d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Washi tape băng keo giấy trang trí diy'])[1]/preceding::h3[1]</value>
+      <webElementGuid>30291c60-2c44-4680-9423-a74b1fae9371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>9b8c04c5-33b8-4fad-9c27-42582cfd27c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Xe Vespa mô hình trang trí, phụ kiện chụp ảnh' or . = 'Xe Vespa mô hình trang trí, phụ kiện chụp ảnh')]</value>
+      <webElementGuid>3d92f365-4ad3-4267-913c-ff1d3137feab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hchutangdan</name>
+   <tag></tag>
+   <elementGuidId>5ed22d06-7ab8-414d-8d1f-a3b24429356e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách'])[1]/following::h3[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5f5a8daf-7a8a-4350-9eda-fe0960569b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>95a594b3-9997-4a69-86b7-f691eba0ae8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sổ tay da cao cấp handmade làm theo yêu cầu</value>
+      <webElementGuid>0678253f-4713-45d4-a997-c2f3840b2ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container main-collection&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;main_container collection col-lg-9 col-lg-push-3&quot;]/div[@class=&quot;category-products products&quot;]/section[@class=&quot;products-view products-view-grid&quot;]/div[@class=&quot;row row-gutter-14&quot;]/div[@class=&quot;col-xs-6 col-xss-6 col-sm-4 col-md-4 col-lg-4&quot;]/div[@class=&quot;product-box&quot;]/div[@class=&quot;product-info a-center&quot;]/h3[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>dddc33c8-2ef8-4c95-88e6-77a73be0fe5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách'])[1]/following::h3[1]</value>
+      <webElementGuid>93bcff24-c96b-4f11-ba99-7e453e041acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưới'])[1]/following::h3[1]</value>
+      <webElementGuid>9d838b8c-3d74-4c2c-97ae-c8c052fa7e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên hệ'])[1]/preceding::h3[1]</value>
+      <webElementGuid>4a908968-f40c-4637-a1c1-fef58cc50325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>3fcdc43c-d829-4baa-98ca-c3a50e0ccf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Sổ tay da cao cấp handmade làm theo yêu cầu' or . = 'Sổ tay da cao cấp handmade làm theo yêu cầu')]</value>
+      <webElementGuid>98aa5b5b-ffa5-4949-96b6-5bae60756d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

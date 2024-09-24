@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_This is a sample page</name>
+   <tag></tag>
+   <elementGuidId>caeca100-acc7-4d97-8f60-10f88ccc3b1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='sampleHeading']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sampleHeading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>28a19209-ecbf-421f-ade2-20eabea99c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sampleHeading</value>
+      <webElementGuid>c9a6eee1-8a52-4a28-9213-4ad90ab07d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a sample page</value>
+      <webElementGuid>73304ca2-5b24-4120-8b23-4d8b41485c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sampleHeading&quot;)</value>
+      <webElementGuid>052ab8f3-a182-45d1-a79c-3bd054f6c9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_DEMOQA/iframe_Frames_frame1</value>
+      <webElementGuid>3a2f84df-5604-40b9-b4da-bea78ead95f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='sampleHeading']</value>
+      <webElementGuid>18aadc63-c97f-42c2-ba4e-acdb78f0e73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This is a sample page']/parent::*</value>
+      <webElementGuid>285501ca-2615-4ee0-8490-c1a2bff18ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>5e7ca800-8f03-4f1d-9661-e22c4d62de46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'sampleHeading' and (text() = 'This is a sample page' or . = 'This is a sample page')]</value>
+      <webElementGuid>f6e41e18-6e35-4fc4-9018-4025f3b72b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

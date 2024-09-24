@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dangnhapp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>530c4627-a8c9-4c43-9852-4e8a50411218</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e66195b-360b-4b44-ba7e-783dfdb016ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c92517b2-87dc-4e83-a3c8-4f349285db82</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cbdd70c-3848-4238-bf3b-a05233ae880e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e66195b-360b-4b44-ba7e-783dfdb016ea</id>
+      <masked>false</masked>
+      <name>inputemail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c92517b2-87dc-4e83-a3c8-4f349285db82</id>
+      <masked>false</masked>
+      <name>inputpass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cbdd70c-3848-4238-bf3b-a05233ae880e</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

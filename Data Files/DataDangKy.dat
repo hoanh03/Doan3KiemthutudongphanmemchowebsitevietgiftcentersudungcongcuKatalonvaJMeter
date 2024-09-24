@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DataDangKy</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9ec9953d-8adb-4416-b064-44221f1069cb</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>null hoangoanhhh1%40gmail.com oanh111 Please+fill+out+this+field</data>
+   <data>Kim+Oanh null oanh111 Please+fill+out+this+field</data>
+   <data>Kim+Oanh hoangoanhhh1%40gmail.com null Please+fill+out+this+field</data>
+   <data>Kim+Oanh hoangoanhhh1gmail.com oanh111 Please+include+an+%27%40%27+in+the+email+address.+%27hoangoanhh1gmail.com%27+is+missing+an+%27%40%27</data>
+   <data>Kim+Oanh hoangoanhhh1%40gmailcom oanh111 Email+%C4%91%C3%A3+t%E1%BB%93n+t%E1%BA%A1i.</data>
+   <data>Kim+Oanh %40gmail.com oanh111 Please+enter+a+part+followed+by+%27%40%27.+%27%40gmail.com%27+is+incomplete.</data>
+   <data>Kim+Oanh hoangoanhhh1%40 oanh111 Please+enter+a+part+followed+%27%40%27.+%27hoangoanh11%40%27+is+incomplete.</data>
+   <data>Kim+Oanh hoangoanhhh1%40gmail.com oanh M%E1%BA%ADt+kh%E1%BA%A9u+d%C3%A0i+t%E1%BB%AB+6+%C4%91%E1%BA%BFn+50+k%C3%BD+t%E1%BB%B1</data>
+   <data>Kim+Oanh hoangoanhhh1%40gmail.com h6Fv%403%21dJk9Pq1%23s8Tm*Ux%24Z7bW2yL%25RfCvY%5EGjNpMx4BzAuKhh M%E1%BA%ADt+kh%E1%BA%A9u+d%C3%A0i+t%E1%BB%AB+6+%C4%91%E1%BA%BFn+50+k%C3%BD+t%E1%BB%B1</data>
+   <data>Kim+Oanh hoangoanhhh1%40gmail.com oanh111 Kim+Oanh</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>inputHoten</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>inputemail</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>inputMatkhau</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>ketqua</name>
+      <size>10</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

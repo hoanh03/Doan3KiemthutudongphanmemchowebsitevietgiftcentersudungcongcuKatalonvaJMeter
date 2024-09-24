@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC QuenMK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6e1fb1-0760-4991-97c8-5e7b576e5209</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02e14fb6-43a2-4989-a316-49c1ac4be0ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54a497c0-54f1-4866-9c21-98f77b6f0012</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02e14fb6-43a2-4989-a316-49c1ac4be0ef</id>
+      <masked>false</masked>
+      <name>inputemail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54a497c0-54f1-4866-9c21-98f77b6f0012</id>
+      <masked>false</masked>
+      <name>ketqua</name>
+   </variable>
+</TestCaseEntity>

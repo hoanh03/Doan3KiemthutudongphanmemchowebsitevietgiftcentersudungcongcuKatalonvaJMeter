@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestDataQuenMK</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4237f283-7616-41ac-86c7-c15e326a3c0b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>null Please+fill+out+this+field.</data>
+   <data>o Please+include+an+%27%40%27+in+the+email+address.+%27o%27+is+missing+an+%27%40%27.</data>
+   <data>hoangoanh14%40 Please+enter+a+part+following+%27%40%27.+%27hoangoanh14%40%27+is+incomplete.</data>
+   <data>hoangoanh14%40gmailcom %C4%90%C4%83ng+nh%E1%BA%ADp+t%C3%A0i+kho%E1%BA%A3n</data>
+   <data>hoangoanh14gmail.com Please+include+an+%27%40%27+in+the+email+address.+%27hoangoanh14gmail.com%27+is+missing+an+%27%40%27.</data>
+   <data>%40gmail.com Please+enter+a+part+following+%27%40%27.+%27%40gmail.com%27+is+incomplete.</data>
+   <data>%23%5E%40hoangoanh14%40gmail.com Please+enter+a+part+followed+by+%27%40%27.+%27%23%5E%40hoangoanh14%40gmail.com%27+is+incomplete.</data>
+   <data>hoangoanh14%40gmail.com %C4%90%C4%83ng+nh%E1%BA%ADp+t%C3%A0i+kho%E1%BA%A3n</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>inputemail</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>ketqua</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

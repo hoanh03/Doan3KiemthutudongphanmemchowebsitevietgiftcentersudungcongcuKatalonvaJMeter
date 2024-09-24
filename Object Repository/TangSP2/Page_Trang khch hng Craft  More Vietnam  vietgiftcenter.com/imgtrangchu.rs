@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgtrangchu</name>
+   <tag></tag>
+   <elementGuidId>c6b6becb-16e6-4665-ae33-79e734d67648</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='logo ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bee6d845-915b-42a7-8512-2a1e3a822453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bizweb.dktcdn.net/100/090/662/themes/700896/assets/logo.png?1716273486089</value>
+      <webElementGuid>4b40cf54-f676-472a-97de-32476da19ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>logo </value>
+      <webElementGuid>88df5288-8c3f-41db-b58d-53b9242f9094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header other-page&quot;]/nav[1]/div[@class=&quot;container&quot;]/div[@class=&quot;relative d-lg-flex no-mic&quot;]/div[@class=&quot;header-content clearfix a-center&quot;]/div[@class=&quot;logo inline-block&quot;]/a[@class=&quot;logo-wrapper&quot;]/img[1]</value>
+      <webElementGuid>27c6b5bf-45a7-4a94-abfe-2953819b2f7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='logo ']</value>
+      <webElementGuid>e8a8401b-899c-49da-b3ef-05278dc0e89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>16c63484-534b-454b-9faa-0940c5c25c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bizweb.dktcdn.net/100/090/662/themes/700896/assets/logo.png?1716273486089' and @alt = 'logo ']</value>
+      <webElementGuid>b36b6e9b-1174-4eb1-9e8c-6136a7ecfbbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_70.000</name>
+   <tag></tag>
+   <elementGuidId>8c5e925c-6624-46ea-8019-c4a42607759e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cart-price > span.price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b00fe357-7344-4915-9ab2-089a1eee7cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>b4d8f50d-30d1-4c5f-af76-c5f309be0347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70.000₫</value>
+      <webElementGuid>0f7a1606-8bf6-4591-9927-85c139b38d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;main-cart-page main-container col1-layout&quot;]/div[@class=&quot;main container hidden-xs&quot;]/div[@class=&quot;col-main cart_desktop_page cart-page&quot;]/div[@class=&quot;cart page_cart hidden-xs&quot;]/form[@class=&quot;margin-bottom-0&quot;]/div[@class=&quot;bg-scroll&quot;]/div[@class=&quot;cart-tbody&quot;]/div[@class=&quot;item-cart productid-4154278&quot;]/div[@class=&quot;a-center&quot;]/span[@class=&quot;cart-price&quot;]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>68a8e13f-f276-4153-a275-4b8cbc3949e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::span[2]</value>
+      <webElementGuid>cac924c8-7ea1-48ed-abf8-a2075fd86486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[2]/following::span[2]</value>
+      <webElementGuid>020f18f4-8946-46ff-be62-5a789db828de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng tiền:'])[1]/preceding::span[2]</value>
+      <webElementGuid>b1905c0c-e028-493d-a01b-a6caea7ec368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đặt hàng'])[1]/preceding::span[4]</value>
+      <webElementGuid>7ddc980e-a361-4f62-9b8c-31c2aaeeb7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/span</value>
+      <webElementGuid>32443c0e-eea4-478e-bd7b-535eced08be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '70.000₫' or . = '70.000₫')]</value>
+      <webElementGuid>3942bc60-8458-4386-8982-dcbdd4745111</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

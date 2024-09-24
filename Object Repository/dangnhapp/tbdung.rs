@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tbdung</name>
+   <tag></tag>
+   <elementGuidId>471fb874-7427-4f11-aa60-e59a3d7e58cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.block-content.form-signup > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b']/div[3]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2c64476a-924e-4d8c-9642-f2381149e04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tên tài khoản:  Hoang Oanh!</value>
+      <webElementGuid>81e5000d-339c-46eb-9c67-4225c665d74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b&quot;)/div[@class=&quot;block-account&quot;]/div[@class=&quot;block-content form-signup&quot;]/p[1]</value>
+      <webElementGuid>d13dc38d-ccb0-4f7e-b6c1-d8826c162f86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b']/div[3]/div[2]/p</value>
+      <webElementGuid>51c64a41-98b0-4435-935c-e9f5ab901cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản của tôi'])[1]/following::p[1]</value>
+      <webElementGuid>b0cff59e-8be0-4c98-98d8-f33ae1066473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoang Oanh'])[4]/following::p[1]</value>
+      <webElementGuid>6af3553a-b9fd-4a45-a238-f70c8d657dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ: Hà Nội'])[1]/preceding::p[1]</value>
+      <webElementGuid>130cf89f-5524-43d5-a467-a464903a1edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tên tài khoản:']/parent::*</value>
+      <webElementGuid>41176634-c78f-48eb-aea9-291a200d69fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/p</value>
+      <webElementGuid>318e06db-c96c-400c-ab18-c82301a3fc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Tên tài khoản:  Hoang Oanh!' or . = 'Tên tài khoản:  Hoang Oanh!')]</value>
+      <webElementGuid>393711fe-d8dd-4772-b7dc-e15c233a02d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

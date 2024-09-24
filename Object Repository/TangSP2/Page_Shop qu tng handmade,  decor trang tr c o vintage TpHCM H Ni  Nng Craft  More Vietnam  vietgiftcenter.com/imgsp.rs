@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgsp</name>
+   <tag></tag>
+   <elementGuidId>a9b13757-2580-49da-acef-dbd646d45c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Thiệp sinh nhật đẹp, sang trọng Royal White']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Thiệp sinh nhật đẹp, sang trọng Royal White&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3f42bb5e-8459-4b3a-bf2a-465b6f250265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-sinh-nhat-dep-sang-trong-1.jpg?v=1712568822913</value>
+      <webElementGuid>08ff4926-5d3e-4b86-a668-f1f9926abb75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lazyload</name>
+      <type>Main</type>
+      <value>//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-sinh-nhat-dep-sang-trong-1.jpg?v=1712568822913</value>
+      <webElementGuid>a6186b3b-717e-499f-a2af-90114303ed96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Thiệp sinh nhật đẹp, sang trọng Royal White</value>
+      <webElementGuid>265b4f9a-fdc9-4df5-bae0-2ce781bf2fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;awe-section-2&quot;]/div[@class=&quot;section section-col-multi products-view-grid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;products products-view-grid owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;product-box&quot;]/div[@class=&quot;product-thumbnail flexbox-grid&quot;]/a[1]/img[1]</value>
+      <webElementGuid>f3e037e3-040e-4a18-bc44-afc07e8e0655</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Thiệp sinh nhật đẹp, sang trọng Royal White']</value>
+      <webElementGuid>ff80ad14-1c26-4a0c-86bd-b0804762eac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/img</value>
+      <webElementGuid>717b4587-a798-4f18-9c72-29123aa2f255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-sinh-nhat-dep-sang-trong-1.jpg?v=1712568822913' and @alt = 'Thiệp sinh nhật đẹp, sang trọng Royal White']</value>
+      <webElementGuid>d03410d3-cdba-4d6b-9c7c-4bc0318fe7bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

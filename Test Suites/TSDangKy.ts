@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSDangKy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5fa9c122-6884-4b7d-9e3a-55c6552aa4dd</testSuiteGuid>
+   <testCaseLink>
+      <guid>49d56c9d-9c55-45e5-bf9b-d29a9d0cbd43</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TCDangKy</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7157dd3e-64a0-4c90-8ce6-47b339e0e2bd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataDangKy</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7157dd3e-64a0-4c90-8ce6-47b339e0e2bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inputHoten</value>
+         <variableId>bc8134f7-1fc2-410a-8efb-584a35778319</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7157dd3e-64a0-4c90-8ce6-47b339e0e2bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inputemail</value>
+         <variableId>e4a38f57-7ad2-434f-91b2-0f7655224306</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7157dd3e-64a0-4c90-8ce6-47b339e0e2bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inputMatkhau</value>
+         <variableId>764b9f9d-9565-4b60-9699-12e48046e1b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7157dd3e-64a0-4c90-8ce6-47b339e0e2bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ketqua</value>
+         <variableId>a183facb-0ab2-47ba-b76d-587a5a7a70c6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

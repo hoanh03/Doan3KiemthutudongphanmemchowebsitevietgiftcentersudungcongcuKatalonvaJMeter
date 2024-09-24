@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon</name>
+   <tag></tag>
+   <elementGuidId>943862b5-69d6-4f69-89b4-d17132f1c633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Chúng tôi'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f039317-10ca-4305-9f9c-ede6e873c672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>076cfe81-7f9c-405c-a0af-52522d7b77b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giỏ hàng</value>
+      <webElementGuid>1d2f7242-76dd-4f70-a751-58a296f32760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header&quot;]/nav[1]/div[@class=&quot;container&quot;]/div[@class=&quot;relative d-lg-flex no-mic&quot;]/div[@class=&quot;hidden-sm hidden-xs flex-grow-1&quot;]/div[@class=&quot;top-cart-contain f-right&quot;]/div[@class=&quot;mini-cart text-xs-center&quot;]/div[@class=&quot;heading-cart&quot;]/a[1]/div[1]/div[@class=&quot;right-content&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>c561416f-db90-4cd3-a569-b02ea996c25e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chúng tôi'])[1]/following::span[2]</value>
+      <webElementGuid>e1c77e39-ecb0-4259-a3b4-9f8d2a1d5cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thiệp sinh nhật đẹp, sang trọng Royal White'])[1]/preceding::span[2]</value>
+      <webElementGuid>8340aa6f-2893-49b4-a155-1ca49b471742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[1]/preceding::span[3]</value>
+      <webElementGuid>ae6aa513-e596-4fd7-83a1-86cfd374c79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Giỏ hàng']/parent::*</value>
+      <webElementGuid>e1785980-e328-463d-b141-a257baa7905a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>89e3a705-1662-4635-a6a3-d4c23f999b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Giỏ hàng' or . = 'Giỏ hàng')]</value>
+      <webElementGuid>3fc314a9-0d48-4c5d-83c0-5b98333c67c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttoncong</name>
+   <tag></tag>
+   <elementGuidId>7a46d375-f8d5-4e87-bf73-c5b856762484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.increase_pop.items-count.btn-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9e11d37-e85e-49d3-9130-12a4560bf94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>var result = this.previousSibling; var qtyItem4154278 = result.value; if( !isNaN( qtyItem4154278 )) result.value++;return false;</value>
+      <webElementGuid>25c8fec1-9a50-4cad-9f78-f532332c1c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>increase_pop items-count btn-plus</value>
+      <webElementGuid>f79c0e75-6b00-4413-ad35-2df25c0c8c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>492c1d45-4087-4319-a9e5-5ee4cd8fe6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+</value>
+      <webElementGuid>791cf04a-a12a-445f-ac9d-09326b2fbc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;main-cart-page main-container col1-layout&quot;]/div[@class=&quot;main container hidden-xs&quot;]/div[@class=&quot;col-main cart_desktop_page cart-page&quot;]/div[@class=&quot;cart page_cart hidden-xs&quot;]/form[@class=&quot;margin-bottom-0&quot;]/div[@class=&quot;bg-scroll&quot;]/div[@class=&quot;cart-tbody&quot;]/div[@class=&quot;item-cart productid-4154278&quot;]/div[@class=&quot;a-center&quot;]/div[@class=&quot;input_qty_pr relative&quot;]/button[@class=&quot;increase_pop items-count btn-plus&quot;]</value>
+      <webElementGuid>6682c499-0418-4c7e-a28c-993de3d1eede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>49b3dd51-6ad7-44a5-99fa-cc739e318eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[2]/following::button[1]</value>
+      <webElementGuid>bc341f86-23dd-4206-bb8d-ca692cec584d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Title'])[1]/following::button[2]</value>
+      <webElementGuid>6d21c7b3-9e02-4f93-a251-468e3041d3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng tiền:'])[1]/preceding::button[1]</value>
+      <webElementGuid>ae688769-4ca1-4701-af68-25b54fbe5820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành đặt hàng'])[1]/preceding::button[1]</value>
+      <webElementGuid>6cd423d8-167d-4b6c-be89-d5f320deedc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button[2]</value>
+      <webElementGuid>712576b2-83c5-4f18-811b-86fc623232cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+' or . = '+')]</value>
+      <webElementGuid>56502ee2-d54f-4591-aa70-42a2b32e622f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

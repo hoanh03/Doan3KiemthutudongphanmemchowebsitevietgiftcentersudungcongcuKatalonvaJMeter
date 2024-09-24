@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dathang</name>
+   <tag></tag>
+   <elementGuidId>1dfc5a62-5982-4a99-a1b5-463966936719</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lg.btn-primary.btn-cart.btn-cart2.add_to_cart.btn_buy.add_to_cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>812b3ef7-78d8-473f-bf24-0f4dee173edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ec38e3c6-9ea1-473d-97bb-72c183e375c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary btn-cart btn-cart2 add_to_cart btn_buy add_to_cart</value>
+      <webElementGuid>24cdb3cc-479b-43fa-b9f1-7c3a7e4f0e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cho vào giỏ hàng</value>
+      <webElementGuid>2bce400e-3098-4827-ac4b-fdad8f6b6691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										Đặt hàng ngay  
+									</value>
+      <webElementGuid>d41b355f-9988-4410-b353-1169f049a4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-cart-form&quot;)/div[@class=&quot;form-group form-groupx form-detail-action clearfix&quot;]/button[@class=&quot;btn btn-lg btn-primary btn-cart btn-cart2 add_to_cart btn_buy add_to_cart&quot;]</value>
+      <webElementGuid>575b7fa4-77bd-496d-a5f4-0b2b84df0bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>9c82b48c-1add-40fb-a8bf-a091033e0245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add-to-cart-form']/div[2]/button</value>
+      <webElementGuid>0e9b0fd5-d505-4be9-8774-4403812c7fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>b0b526b9-4233-4c6b-9ffd-540b3ed659e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[1]</value>
+      <webElementGuid>17d39a52-1e09-4f55-b3d1-19df2b50f397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BÁO KHI CÓ HÀNG'])[1]/preceding::button[1]</value>
+      <webElementGuid>9a41cb05-98ef-42b5-9923-07d339c72649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>2664aac0-f788-4594-b15a-97949d04fec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @title = 'Cho vào giỏ hàng' and (text() = '
+										Đặt hàng ngay  
+									' or . = '
+										Đặt hàng ngay  
+									')]</value>
+      <webElementGuid>10e5372c-7851-40e3-8523-8b3d0e9f77db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

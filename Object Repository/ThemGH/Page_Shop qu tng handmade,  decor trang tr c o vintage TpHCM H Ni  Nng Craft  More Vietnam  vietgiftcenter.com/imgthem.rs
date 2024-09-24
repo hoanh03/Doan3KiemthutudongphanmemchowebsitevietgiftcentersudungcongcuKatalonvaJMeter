@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgthem</name>
+   <tag></tag>
+   <elementGuidId>c17c9f24-21d7-48f8-9284-df712965a1d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Thiệp handmade Retro Film de Paris&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Thiệp handmade Retro Film de Paris']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>08435786-546a-43d7-9eee-53ba8b558374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-valentine-chuc-mung-142-mau-dep-lam-handmade-tang-ban-trai-ban-gai-vo-nguoi-yeu-vintage-ban-chay-nhat-hcm-ha-noi.jpg?v=1675648780317</value>
+      <webElementGuid>55e2a4f7-9473-439e-b3ff-b24e9743a49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lazyload</name>
+      <type>Main</type>
+      <value>//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-valentine-chuc-mung-142-mau-dep-lam-handmade-tang-ban-trai-ban-gai-vo-nguoi-yeu-vintage-ban-chay-nhat-hcm-ha-noi.jpg?v=1675648780317</value>
+      <webElementGuid>9e3efc6a-ffb3-4852-888b-16fc336e2895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Thiệp handmade Retro Film de Paris</value>
+      <webElementGuid>f6664f4e-7c61-4209-8f85-7039db651720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;awe-section-2&quot;]/div[@class=&quot;section section-col-multi products-view-grid&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;products products-view-grid owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;product-box&quot;]/div[@class=&quot;product-thumbnail flexbox-grid&quot;]/a[1]/img[1]</value>
+      <webElementGuid>c76968c8-d6b1-4265-8f9b-5aabd676871e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Thiệp handmade Retro Film de Paris']</value>
+      <webElementGuid>ebad32a4-9845-4588-9c29-5a0c2dd7cc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a/img</value>
+      <webElementGuid>03d28b32-0195-46e1-b7f8-35ba8713e71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bizweb.dktcdn.net/thumb/medium/100/090/662/products/thiep-valentine-chuc-mung-142-mau-dep-lam-handmade-tang-ban-trai-ban-gai-vo-nguoi-yeu-vintage-ban-chay-nhat-hcm-ha-noi.jpg?v=1675648780317' and @alt = 'Thiệp handmade Retro Film de Paris']</value>
+      <webElementGuid>c6168eb7-997a-493a-8d5c-afd76e74b3b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

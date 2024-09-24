@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icongh</name>
+   <tag></tag>
+   <elementGuidId>4ea0d7bf-8f9e-4c17-8d10-0b22e93647b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-shopping-bag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8d35723f-45e7-4413-9b90-ee9f2b4bb318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-shopping-bag</value>
+      <webElementGuid>c9ebcb94-fb98-4c88-ac7d-0e5065a0482b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header&quot;]/nav[1]/div[@class=&quot;container&quot;]/div[@class=&quot;relative d-lg-flex no-mic&quot;]/div[@class=&quot;hidden-sm hidden-xs flex-grow-1&quot;]/div[@class=&quot;top-cart-contain f-right&quot;]/div[@class=&quot;mini-cart text-xs-center&quot;]/div[@class=&quot;heading-cart&quot;]/a[1]/div[1]/div[@class=&quot;icon f-left relative&quot;]/i[@class=&quot;fa fa-shopping-bag&quot;]</value>
+      <webElementGuid>68cf33cb-bbb7-4a0a-a364-44ef863b1806</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>f8fb4de0-2b17-419b-bd16-6ee13d785223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

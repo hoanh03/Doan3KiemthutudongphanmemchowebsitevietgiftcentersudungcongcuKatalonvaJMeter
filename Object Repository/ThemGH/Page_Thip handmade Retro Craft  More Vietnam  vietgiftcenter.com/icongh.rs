@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icongh</name>
+   <tag></tag>
+   <elementGuidId>753108d6-43be-42e3-886c-a3c86705906a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-cart-mobile.hidden-md.hidden-lg.f-left.absolute > div.icon.relative > i.fa.fa-shopping-bag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8bde0ff4-711c-4ea6-8095-caa57e65b22e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-shopping-bag</value>
+      <webElementGuid>088929f9-7ff0-4683-8213-d02c8345cd70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header other-page&quot;]/nav[@class=&quot;sticky&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;relative d-lg-flex no-mic&quot;]/div[@class=&quot;icon-cart-mobile hidden-md hidden-lg f-left absolute&quot;]/div[@class=&quot;icon relative&quot;]/i[@class=&quot;fa fa-shopping-bag&quot;]</value>
+      <webElementGuid>192725c5-e08e-4a64-b548-ebb0076602cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/i</value>
+      <webElementGuid>94b81583-421c-4007-b065-f62fec78bbbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
